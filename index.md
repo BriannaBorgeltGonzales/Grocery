@@ -1,8 +1,11 @@
 ## Welcome to GitHub Pages
 
 [Shop Groceries](Shop-Groceries.html)
+
 [Pickup Groceries](Pickup-Groceries.html)
+
 [Complain About App](Complain-About-App.html)
+
 [Check Out Groceries](Check-Out-Groceries.html)
 
 You can use the [editor on GitHub](https://github.com/BriannaBorgeltGonzales/Grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
