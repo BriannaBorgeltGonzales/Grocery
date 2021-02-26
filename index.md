@@ -2,9 +2,15 @@
 
 [Shop Groceries](Shop-Groceries.html)
 
+
+
 [Pickup Groceries](Pickup-Groceries.html)
 
+
+
 [Complain About App](Complain-About-App.html)
+
+
 
 [Check Out Groceries](Check-Out-Groceries.html)
 
